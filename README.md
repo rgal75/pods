@@ -1,0 +1,4 @@
+pods
+====
+
+CocoaPods specifications (podspecs)
